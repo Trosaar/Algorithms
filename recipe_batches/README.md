@@ -35,3 +35,9 @@ You can also test your implementation manually by executing `python recipe_batch
 
  * If there's a dictionary operation you aren't sure of how to perform in Python, look it up!
  * What's the _minimum_ number of loops we need to perform in order to write a working implementation?
+
+## personal notes
+
+loop through the ingedients dict diving it by the recipe dict and floor rounding and then retun the smallest number.
+
+
